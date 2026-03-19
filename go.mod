@@ -1,4 +1,4 @@
-module github.com/supabase/terraform-provider-supabase-analytics
+module github.com/IIndobase/terraform-provider-supabase-analytics
 
 go 1.24.0
 

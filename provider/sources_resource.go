@@ -20,7 +20,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema/planmodifier"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 	"github.com/hashicorp/terraform-plugin-framework/types/basetypes"
-	"github.com/supabase/terraform-provider-supabase-analytics/internal/pkg/api"
+	"github.com/IIndobase/terraform-provider-supabase-analytics/internal/pkg/api"
 )
 
 var (

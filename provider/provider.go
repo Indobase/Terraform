@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/supabase/terraform-provider-supabase-analytics/internal/pkg/api"
+	"github.com/IIndobase/terraform-provider-supabase-analytics/internal/pkg/api"
 
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/function"

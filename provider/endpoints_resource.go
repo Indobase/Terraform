@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/supabase/terraform-provider-supabase-analytics/internal/pkg/api"
+	"github.com/IIndobase/terraform-provider-supabase-analytics/internal/pkg/api"
 
 	"github.com/hashicorp/terraform-plugin-framework-jsontypes/jsontypes"
 	"github.com/hashicorp/terraform-plugin-framework/diag"
